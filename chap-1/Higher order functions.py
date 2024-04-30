@@ -189,3 +189,4 @@ import datetime
 start_date = datetime.date(2022, 1, 1)
 end_date = datetime.date(2022, 12, 31)
 dates = (start_date + datetime.timedelta(days=x) for x in range((end_date - start_date).days + 1))
+
