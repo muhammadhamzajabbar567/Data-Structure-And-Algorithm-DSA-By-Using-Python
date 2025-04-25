@@ -1,103 +1,96 @@
-# 📚 Data Structures and Algorithms (DSA) Using Python
+# 📚 Data Structures and Algorithms (DSA) in Python
 
-Welcome to the **Data Structures and Algorithms (DSA)** repository implemented in **Python**. This repo is a curated collection of popular DSA problems and concepts, designed for learners, professionals, and interview candidates. It offers clean code, detailed explanations, and problem-solving patterns that are crucial for coding interviews and real-world applications.
-
----
-
-## 📌 Table of Contents
-
-- [📖 About the Project](#-about-the-project)
-- [✨ Features](#-features)
-- [🔧 Tech Stack](#-tech-stack)
-- [🧱 Data Structures Covered](#-data-structures-covered)
-- [🔁 Algorithms Covered](#-algorithms-covered)
-- [🧩 Problem Solving Patterns](#-problem-solving-patterns)
-- [📂 Folder Structure](#-folder-structure)
-- [🚀 Getting Started](#-getting-started)
-- [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
-- [👨‍💻 Author](#-author)
-- [🧠 FAQ](#-faq)
+Welcome to the **Data Structures and Algorithms (DSA)** repository, crafted with **Python**. This repository is a comprehensive and structured resource for mastering DSA concepts through clean, modular, and well-documented code. Whether you're preparing for technical interviews, coding assessments, academic exams, or simply improving your problem-solving skills—this is the right place for you.
 
 ---
 
 ## 📖 About the Project
 
-This project is focused on building strong DSA fundamentals through Python. Each file includes:
-- Concise and readable Python implementations.
-- Inline comments for understanding the logic.
-- Example inputs and expected outputs.
-- Test cases where applicable.
+This project aims to solidify your understanding of core computer science principles through real-world implementations in Python. Each topic includes:
 
-Whether you're preparing for **tech interviews**, **academic exams**, or just enhancing your **Python skills**, this repo will guide you step-by-step.
+- ✅ Clean and concise implementations  
+- 💬 Inline comments for logic explanation  
+- 🔍 Sample inputs and expected outputs  
+- 🧪 Test cases to verify functionality  
+
+The repository serves as a roadmap for both **beginners** and **advanced developers** preparing for **FAANG interviews**, **university exams**, or **coding competitions**.
 
 ---
 
 ## ✨ Features
 
-- 🧼 Clean and modular code
-- 📝 Inline explanations and comments
-- 🔁 Practical real-world use cases
-- 🧪 Sample test cases
-- 🧠 Interview-ready problems
-- 🆕 Constantly updated with new topics
+- ✅ Modular and scalable codebase  
+- 💡 Clear logic with descriptive comments  
+- 🔁 Real-world applicable problem patterns  
+- 📦 Testable, reusable functions and classes  
+- 🧠 Focus on interview-centric DSA problems  
+- 🚧 Actively maintained and frequently updated  
 
 ---
 
 ## 🔧 Tech Stack
 
-- Language: **Python 3.x**
-- IDEs: VS Code / PyCharm
-- Tools: Git, GitHub
+- 🐍 **Language**: Python 3.x  
+- 🧠 **IDE/Editor**: Visual Studio Code, PyCharm  
+- ⚙️ **Tools**: Git, GitHub, Markdown  
 
 ---
 
 ## 🧱 Data Structures Covered
 
-- ✔️ Arrays
-- ✔️ Strings
-- ✔️ Linked Lists (Singly, Doubly, Circular)
-- ✔️ Stacks
-- ✔️ Queues (Simple, Circular, Priority)
-- ✔️ Trees (Binary, Binary Search Tree, AVL)
-- ✔️ Graphs (Adjacency List, Matrix)
-- ✔️ Hash Tables / Dictionaries
-- ✔️ Heaps
-- ✔️ Tries
-- ✔️ Sets
+- ✅ Arrays & Lists  
+- ✅ Strings  
+- ✅ Linked Lists (Singly, Doubly, Circular)  
+- ✅ Stacks & Queues (Simple, Circular, Priority)  
+- ✅ Trees (Binary Tree, BST, AVL)  
+- ✅ Graphs (Adjacency List, Matrix)  
+- ✅ Hash Tables / Dictionaries  
+- ✅ Sets  
+- ✅ Heaps  
+- ✅ Tries  
 
 ---
 
 ## 🔁 Algorithms Covered
 
-- Searching (Linear, Binary)
-- Sorting (Bubble, Selection, Insertion, Merge, Quick, Heap)
-- Recursion & Backtracking
-- Divide and Conquer
-- Greedy Algorithms
-- Dynamic Programming
-- Tree and Graph Traversals (DFS, BFS)
-- Dijkstra’s Algorithm
-- Floyd-Warshall
-- Bellman-Ford
-- Kadane’s Algorithm
-- Sliding Window
-- Two Pointer Techniques
+- 🔍 Searching (Linear, Binary)  
+- 📊 Sorting (Bubble, Insertion, Merge, Quick, Heap)  
+- ♻️ Recursion & Backtracking  
+- ⚔️ Divide and Conquer  
+- 💰 Greedy Algorithms  
+- 🧠 Dynamic Programming  
+- 🌳 Tree and Graph Traversals (DFS, BFS)  
+- 📍 Shortest Path Algorithms (Dijkstra, Floyd-Warshall, Bellman-Ford)  
+- 📈 Kadane’s Algorithm  
+- 🔲 Sliding Window  
+- ➿ Two Pointer Techniques  
 
 ---
 
 ## 🧩 Problem Solving Patterns
 
-- Sliding Window
-- Two Pointers
-- Fast and Slow Pointers
-- Merge Intervals
-- Top-K Elements
-- Backtracking
-- Bit Manipulation
-- Dynamic Programming (Tabulation & Memoization)
+- 🔲 Sliding Window  
+- ↔️ Two Pointers  
+- 🐢🐇 Fast & Slow Pointers  
+- 🧩 Merge Intervals  
+- ⭐ Top-K Elements  
+- 🔄 Backtracking  
+- 🧠 Bit Manipulation  
+- 📚 Dynamic Programming (Tabulation & Memoization)  
 
 ---
 
-## 📂 Folder Structure
+## 📂 Structure
 
+All code is contained in a single Python file for easy reference and execution.
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+Ensure Python 3.x is installed on your machine.
+
+```bash
+python --version
