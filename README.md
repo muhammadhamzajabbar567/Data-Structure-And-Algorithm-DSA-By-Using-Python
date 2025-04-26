@@ -30,9 +30,15 @@ The repository serves as a roadmap for both **beginners** and **advanced develop
 
 ## 🔧 Tech Stack
 
-- 🐍 **Language**: Python 3.x  
-- 🧠 **IDE/Editor**: Visual Studio Code, PyCharm  
-- ⚙️ **Tools**: Git, GitHub, Markdown  
+- 🐍 **Programming Language**: Python 3.x  
+- 🧠 **IDE/Editor**: 
+  - [Visual Studio Code](https://code.visualstudio.com/)
+  - [PyCharm](https://www.jetbrains.com/pycharm/)
+- ⚙️ **Tools & Frameworks**:
+  - Git & GitHub
+  - Markdown
+  - Python Standard Library
+  - Optional (for testing/advanced use): `pytest`, `unittest`, `time`, `heapq`, `collections`
 
 ---
 
@@ -83,14 +89,20 @@ The repository serves as a roadmap for both **beginners** and **advanced develop
 ## 📂 Structure
 
 All code is contained in a single Python file for easy reference and execution.
+You can run the entire script or specific functions for practicing a topic.
 
 ---
 
 ## 🚀 Getting Started
 
-### Prerequisites
+### 🔍 Prerequisites
 
 Ensure Python 3.x is installed on your machine.
 
+#### ➤ Check if Python is already installed:
+
 ```bash
+pip install python
 python --version
+
+
